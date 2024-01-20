@@ -1,0 +1,12 @@
+using System;
+using System.Collect.Generic;
+using System.Line;
+using System.Text;
+using System.Threading.Tasks;
+define namespace Test {
+    define class Program {
+        define main(String[] args) {
+            System.out.println(); //similar with Java
+        }
+    }
+}
