@@ -1,0 +1,12 @@
+#import <System>
+#import <System.Collect.Generic>
+#import <System.Line>
+#import <System.Text>
+#import <System.Threading.Tasks>
+define namespace DateTest {
+    class Program {
+        define main(String[] args) {
+            System.out.println(); //be like Java
+        }
+    }
+}
