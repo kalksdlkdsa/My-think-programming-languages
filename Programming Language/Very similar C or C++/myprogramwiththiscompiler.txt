@@ -1,0 +1,9 @@
+#import <iolib>
+using namespace std;
+int main() {
+    cout << "Cứu"
+    int x; cout << "Input anything: "
+    cin >> x
+    return 0
+}
+main()
