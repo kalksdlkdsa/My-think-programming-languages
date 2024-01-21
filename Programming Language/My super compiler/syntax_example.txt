@@ -1,0 +1,15 @@
+#from <System> import <*>
+#from <System.Collect.Generic> import <*>
+#from <System.Line> import <*>
+#from <System.Text> import <*>
+#from <System.Threading.Tasks> import <*>
+define namespace DateTimeTest {
+    define class Program {
+        define main(String[] args) {
+            DateTime latestDate = new DateTime(9999,12,31,23,59,59,999)
+            System.out.println(latestDate)
+            DateTime earliestDate = new DateTime(-9999,12,31,23,59,59,999)
+            System.out.println(earliestDate)
+        }
+    }
+}
