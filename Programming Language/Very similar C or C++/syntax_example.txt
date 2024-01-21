@@ -1,0 +1,6 @@
+#import <iolib>
+using namespace std;
+//not have main() function
+cout << "Cứu"
+int x ; cout << "Input any number: "
+cin >> x
