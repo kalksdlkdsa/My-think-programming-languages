@@ -1,0 +1,6 @@
+#import <iolib>
+using namespace std;
+//main() function.
+int main() {
+    cout << "Cứu";
+}
