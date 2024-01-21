@@ -1,0 +1,8 @@
+#import <iolib>
+#from <time.datetime> import <*>
+int main() {
+    iolib.printc(datetime(9999,12,31,23,59,59,999999))
+    iolib.printc(datetime(0,1,1,0,0,0,0))
+    iolib.printc(datetime(-9999,1,1,0,0,0,0))
+    iolib.printc(datetime(10000,1,1,0,0,0,0)) //erroer
+}
