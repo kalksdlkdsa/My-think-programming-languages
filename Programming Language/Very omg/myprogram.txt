@@ -1,0 +1,10 @@
+#from <iolib> import <*>
+int main() {
+    // Code the program at here
+    class Program {
+        #from <time.datetime> import <datetime>
+        printc(datetime.now())
+    }
+    printc(datetime.now()) // erroer
+    return 0
+}
