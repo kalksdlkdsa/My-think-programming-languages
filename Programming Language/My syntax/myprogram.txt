@@ -1,0 +1,8 @@
+#import <iolib>
+define namespace ProgramTest {
+    define class myprogram {
+        define main(String[] args) {
+            iolib.Console.WriteLine("Hello")
+        }
+    }
+}
